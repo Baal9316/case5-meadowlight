@@ -26,10 +26,10 @@ st.set_page_config(
 )
 
 st.title("Meadowlight Farm: Player Progression & Churn")
+st.markdown("**Team Members: Bashar, William, Brennen & Rishi Bhargava**")
 st.caption(
     "Early warmup behavior analysis for player progression, churn, and reminder targeting."
 )
-
 
 # ---------------------------------------------------------
 # LOAD DATA
